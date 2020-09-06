@@ -362,7 +362,7 @@
 				<Title>altimetria_hc</Title>
 				<Abstract>GH:altimetria_hc ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/altimetria_hc.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/altimetria_hc.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.885492106808496" miny="38.70758289934479" maxx="-7.837621006549566" maxy="38.739542083543085"></LatLonBoundingBox>
@@ -382,7 +382,7 @@
 				<Title>carta_solos_hc</Title>
 				<Abstract>GH:carta_solos_hc ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/carta_solos_hc.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/carta_solos_hc.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.907542753290242" miny="38.69165368301207" maxx="-7.843145822146261" maxy="38.74266261469682"></LatLonBoundingBox>
@@ -402,7 +402,7 @@
 				<Title>floresta_hc_2019</Title>
 				<Abstract>GH:floresta_hc_2019 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/floresta_hc_2019.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/floresta_hc_2019.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.885483025623788" miny="38.70601047805263" maxx="-7.837501905627218" maxy="38.73969737838693"></LatLonBoundingBox>
@@ -422,7 +422,7 @@
 				<Title>infrastruturas_hc</Title>
 				<Abstract>GH:infrastruturas_hc ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/infrastruturas_hc.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/infrastruturas_hc.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.8830546551302945" miny="38.71560551392342" maxx="-7.84459186987919" maxy="38.73221254386238"></LatLonBoundingBox>
@@ -442,7 +442,7 @@
 				<Title>limites_hc</Title>
 				<Abstract>GH:limites_hc ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/limites_hc.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/limites_hc.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.885788692710438" miny="38.70601047805263" maxx="-7.83750001646009" maxy="38.73981681503276"></LatLonBoundingBox>
@@ -462,7 +462,7 @@
 				<Title>linhas_de_aguas_visiveis</Title>
 				<Abstract>GH:linhas_de_aguas_visiveis ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/linhas_de_aguas_visiveis.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/linhas_de_aguas_visiveis.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.88601600344863" miny="38.71470100130113" maxx="-7.838461250482912" maxy="38.738453762476354"></LatLonBoundingBox>
@@ -482,7 +482,7 @@
 				<Title>parcelas_hc_2019</Title>
 				<Abstract>GH:parcelas_hc_2019 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/parcelas_hc_2019.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/parcelas_hc_2019.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.885339609945278" miny="38.71720201068313" maxx="-7.855174625218647" maxy="38.73354178281331"></LatLonBoundingBox>
@@ -502,7 +502,7 @@
 				<Title>pomares_hc_2019</Title>
 				<Abstract>GH:pomares_hc_2019 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/pomares_hc_2019.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/luispatrao1980/QVP/releases/download/Map_Download/pomares_hc_2019.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-7.879010329570715" miny="38.720358684353435" maxx="-7.860182381472473" maxy="38.73290870650883"></LatLonBoundingBox>
